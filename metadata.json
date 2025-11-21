@@ -1,0 +1,5 @@
+{
+  "name": "GradeSync Secure",
+  "description": "A secure platform for teachers to publish grades from screenshots/excel and for students to privately review and accept their results.",
+  "requestFramePermissions": []
+}
